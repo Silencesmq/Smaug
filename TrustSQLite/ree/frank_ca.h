@@ -1,0 +1,10 @@
+#ifndef FRANK_CA_H
+#define FRANK_CA_H
+
+#define FRANK_TA_UUID { 0x66666666, 0x6666, 0x6666, \
+	{0x66, 0x66, 0x66, 0x66, 0x66, 0x66, 0x66, 0x66}}
+
+#define TA_FRANK_CMD_TEST     0
+#define TA_FRANK_CMD_SQLite     1
+
+#endif
